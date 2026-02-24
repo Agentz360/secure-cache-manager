@@ -21,7 +21,7 @@
   "devDependencies": {
     "@commitlint/cli": "20.4.2",
     "@commitlint/config-angular": "20.4.2",
-    "@eslint/eslintrc": "3.3.3",
+    "@eslint/eslintrc": "3.3.4",
     "@eslint/js": "10.0.1",
     "@keyv/redis": "5.1.6",
     "@nestjs/common": "11.1.14",
@@ -49,7 +49,7 @@
     "supertest": "7.2.2",
     "ts-jest": "29.4.6",
     "typescript": "5.9.3",
-    "typescript-eslint": "8.56.0"
+    "typescript-eslint": "8.56.1"
   },
   "peerDependencies": {
     "@nestjs/common": "^9.0.0 || ^10.0.0 || ^11.0.0",
